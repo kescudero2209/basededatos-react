@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basededatos-react/static/css/main.20fca637.css",
+    "main.js": "/basededatos-react/static/js/main.23adc3a3.js",
+    "static/js/787.ad4f4dcc.chunk.js": "/basededatos-react/static/js/787.ad4f4dcc.chunk.js",
+    "index.html": "/basededatos-react/index.html",
+    "main.20fca637.css.map": "/basededatos-react/static/css/main.20fca637.css.map",
+    "main.23adc3a3.js.map": "/basededatos-react/static/js/main.23adc3a3.js.map",
+    "787.ad4f4dcc.chunk.js.map": "/basededatos-react/static/js/787.ad4f4dcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20fca637.css",
+    "static/js/main.23adc3a3.js"
+  ]
+}
