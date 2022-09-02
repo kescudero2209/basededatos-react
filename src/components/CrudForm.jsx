@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { nanoid } from "nanoid";
 import { BaseColaboradores } from "../components/Colaboradores";
+import Search from "../components/Search";
 
 const CrudForm = () => {
   const [user, setUser] = useState("");
@@ -23,6 +24,9 @@ const CrudForm = () => {
 
   return (
     <>
+      <div id="search">
+        <Search tasks={task} setTask={setTask} />
+      </div>
       <section>
         <div id="add">
           <h4>Nombre</h4>
